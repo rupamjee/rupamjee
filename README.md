@@ -1,4 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
+
 
 # can you help me with a template, a consolidated playbook for my audience to follow. A step by step guide for anyone and everyone to make this lovable app. Or rather generalize, let them use any no code platform.
 
