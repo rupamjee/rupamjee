@@ -1,10 +1,5 @@
 
-
-# can you help me with a template, a consolidated playbook for my audience to follow. A step by step guide for anyone and everyone to make this lovable app. Or rather generalize, let them use any no code platform.
-
-Just give a github friendly framework/playbook/documentation. Easy to understand steps, super easy to follow.
-
-Below is a GitHub‑friendly, tool‑agnostic playbook you can give your audience. It works for Lovable or any modern no‑/low‑code AI app builder (Bubble, Softr, Replit AI, AgentUI, etc.).[^1][^2][^3][^4][^5][^6][^7]
+Below frameworks work with Lovable or any modern no‑/low‑code AI app builder (Bubble, Softr, Replit AI, AgentUI, etc.)
 
 ***
 
