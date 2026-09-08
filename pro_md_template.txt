@@ -1,6 +1,5 @@
 ##user.md
 
-
  - Who am I
 
  - My role
@@ -21,8 +20,25 @@
  - Core values
 
 
-## Pro Tip
+##Pro Tip
 
 Prompt:
 Interview me about how I work, what I value, how I communicate, and what I want from an Al assistant.
 Then draft my USER, SOUL, and IDENTITY files.
+
+##Meeting extractions
+Extract from this meeting:
+1. DECISIONS. What was decided, by whom, why.
+2. COMMITMENTS. Who promised what, by when.
+3. PREFERENCES. How people work and communicate.
+4. KEY INSIGHTS. Frameworks, strategic shifts, non-obvious observations.
+
+Output as a markdown. Skip small talk.
+
+
+##Organize my day
+Read everything I added to my vault today. Then:
+- Find orphan notes (mentions of people, projects, or companies that don't have their own files yet). Create those files.
+- Consolidate duplicate notes.
+- Update relevant MOCs with new links.
+- Flag anything strategic for me to review tomorrow.
