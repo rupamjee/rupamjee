@@ -42,3 +42,53 @@ Read everything I added to my vault today. Then:
 - Consolidate duplicate notes.
 - Update relevant MOCs with new links.
 - Flag anything strategic for me to review tomorrow.
+
+
+
+
+##Vault
+Folders
+ - Accreditation
+ - Cohorts
+ - Colleges
+ - Concepts
+ - Courses
+ - Datasets
+ - Decisions
+ - Incidents
+ - KPIs
+ - Meetings
+ - People
+ - Pilots
+ - Policies
+ - Programmes
+ - Regulatory Context
+ - Risks
+ - Terms
+ - University
+ - Vendors
+ - Workstreams
+
+Files
+ - Graph Reading Guide
+ - Home
+ - Regulatory Sources
+ - Tag Index
+ - Timeline
+ - Vault Conventions
+
+MD
+ - User
+ - Soul
+ - Identity
+
+
+##Vault Template
+
+1. PEOPLE
+2. PROJECTS
+3. DECISIONS
+4. COMPANIES
+5. MEETINGS
+6. DAILY
+7. KNOWLEDGE
