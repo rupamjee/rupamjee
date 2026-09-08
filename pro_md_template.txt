@@ -1,0 +1,28 @@
+##user.md
+
+
+ - Who am I
+
+ - My role
+
+ - How I communicate (My communication style)
+
+ - Frameworks I live by (what I care about)
+
+ - How I present problems (my operating principles)
+
+
+##soul.md
+
+ - Tone
+
+ - Voice
+
+ - Core values
+
+
+## Pro Tip
+
+Prompt:
+Interview me about how I work, what I value, how I communicate, and what I want from an Al assistant.
+Then draft my USER, SOUL, and IDENTITY files.
