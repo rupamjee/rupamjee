@@ -1,0 +1,35 @@
+=== STEP 2 — the register turns red by itself ==================
+
+Paste the step 1 table into data/day2/action-register/
+register-template.csv and open it in Excel.
+
+First: every open row needs a real date in column D. Where the
+meeting gave none, type the date you will ask the owner for.
+
+--- The formula (type once in G2, fill down) ------------------
+
+  =IF(F2="done", "", TODAY()-D2)
+
+  Read it aloud: if it is done, show nothing; otherwise show
+  today minus the due date. Positive = days overdue.
+
+--- The rule (no typing) --------------------------------------
+
+  Select column G
+  Conditional Formatting -> Highlight Cells Rules -> Greater Than
+  Type 0 -> choose the red fill -> OK
+
+--- Prove it ---------------------------------------------------
+
+  Type "done" in any status cell:  the red clears.
+  Change one due date to yesterday:  the row goes red.
+
+That is the automation. One formula, one rule. On Friday you
+open the sheet and the late rows are already red.
+
+--- In Copilot (Excel), simulated -----------------------------
+
+  "Add a column showing days overdue for rows that are not
+   done, and highlight anything greater than zero in red."
+
+Same formula. Same rule. Only the button is different.

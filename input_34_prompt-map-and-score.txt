@@ -1,0 +1,43 @@
+=== WEAK =====================================================
+
+How could AI help with this routine?
+
+[ paste the routine narrative ]
+
+
+=== BETTER — slide 18, map it ================================
+
+<routine>
+[ paste the routine narrative ]
+</routine>
+
+Turn <routine> into a numbered step map. For each step give:
+- what happens
+- who does it
+- type: transcription, check, wait, chase, judgement, handoff,
+  rework, or filing
+- where it loops back to a previous step, say which
+
+Include every wait as its own step, even if the narrator
+describes it as activity. Do not suggest improvements yet.
+Table only.
+
+
+=== BETTER — slide 20, find the bottleneck ===================
+
+Using the step map above and the times stated in <routine>:
+where does the elapsed time go, and where does the narrator's
+own time go? These may be different. Name the single step that,
+if removed, would shorten the routine most - and say whether it
+is inside the narrator's control.
+
+
+=== BETTER — slide 21, score it ==============================
+
+<scorecard>
+[ paste data/day2/scorecard.md ]
+</scorecard>
+
+Score every step in the map against <scorecard>, one row each,
+with the total and the verdict. Then name the one step that
+must not be automated regardless of score, and say why.

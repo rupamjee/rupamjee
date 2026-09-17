@@ -1,0 +1,26 @@
+=== STEP 4 — the report ========================================
+
+<register>
+[ paste the register ]
+</register>
+
+<brief>
+[ paste data/day2/brief/input.md ]
+</brief>
+
+Two outputs.
+
+1. The ExCo note, exactly as <brief> specifies: its audience,
+   its decision, its must-include and must-not-include, its
+   tone, its length, its format. Use <register> and the
+   decisions recorded in it as the source of fact. Any row
+   marked DO NOT RECORD does not exist for this purpose.
+   Rows marked internal-only may be used because ExCo is
+   internal; say so in one line at the top.
+
+2. The steering-committee version: 7 to 10 bullets, under 150
+   words, one bullet per open decision or overdue item, nothing
+   else. Show the word count.
+
+Before both, list in one line each anything <brief> asks for
+that <register> cannot supply.

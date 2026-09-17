@@ -1,0 +1,33 @@
+=== STEP 3 — the chase, a saved prompt ========================
+
+Save this. Run it every Friday. Change only the register.
+
+------------------------------------------------------------
+<register>
+[ paste the register, all columns ]
+</register>
+
+Today is [ date ].
+
+From <register>, draft one short email per owner containing
+only that owner's rows where status is open.
+
+Rules:
+- Skip any row where record is DO NOT RECORD. Do not mention
+  it, do not summarise it, do not count it.
+- For rows marked internal-only, include the action but not
+  the detail that was limited.
+- Where date is "not stated", ask for one. Do not propose one.
+- Where flag is OVERDUE, say so plainly and ask for a new
+  date or a reason.
+- Where owner is "unassigned", address that email to the
+  Chair and say the item still has no owner.
+- Tone: brief, factual, no apology, no urgency words. Sign
+  off with my name.
+
+After the emails, one status line for the Friday report:
+  N actions · N done · N overdue · N with no date · N unassigned
+------------------------------------------------------------
+
+The DO NOT RECORD rule is the one that matters. Check it is in
+every participant's saved version before they leave.

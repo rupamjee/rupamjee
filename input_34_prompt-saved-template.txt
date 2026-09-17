@@ -1,0 +1,38 @@
+=== SLIDE 23 — turn the automatable step into a saved prompt ====
+
+The pattern. Fill in the four brackets once, save it, run it
+every week with only the input changed.
+
+------------------------------------------------------------
+You are helping [ROLE] with [THE ROUTINE STEP], which happens
+[FREQUENCY].
+
+<input>
+[ this week's raw material ]
+</input>
+
+<format>
+[ paste last week's finished output, or the template ]
+</format>
+
+Produce this week's version from <input>, in exactly the shape
+of <format>. Use only what is in <input>. If something the
+format needs is missing from the input, write "not provided"
+- do not fill it in.
+
+Then list, in one line each, anything in <input> that looks
+wrong, changed unexpectedly, or should be escalated.
+------------------------------------------------------------
+
+Three worked instances, from page 9 of the plan:
+
+PROCUREMENT CHECKLIST  - input: a new request email;
+                         format: the intake checklist from slide 33
+CX COMMUNICATION       - input: a guest complaint, identifiers
+                         stripped; format: two house-style replies
+RISK & DECISION SUMMARY- input: this month's project report;
+                         format: last month's one-page summary
+
+The last paragraph - "list anything that looks wrong" - is the
+review checkpoint, built into the prompt. It does not replace
+reading the output. It makes reading it faster.

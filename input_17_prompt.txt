@@ -1,0 +1,37 @@
+=== WEAK =====================================================
+
+List the actions from this meeting.
+
+[ paste the transcript ]
+
+
+=== BETTER — step 1, the action list ==========================
+
+<transcript>
+[ paste data/meeting-prep/group-delivery-review-transcript.md ]
+</transcript>
+
+Extract every action from <transcript> into a table with these
+columns exactly:
+
+  id | action | owner | date | said_by | record
+
+Rules:
+- owner is the person who AGREED to do it, not who suggested
+  it. If the Chair deferred the decision on who owns it, write
+  "unassigned".
+- date is what was spoken. If no date was spoken, write
+  "not stated". Do not invent one.
+- record is one of:
+    minutes         - can go in the minutes
+    internal-only   - the Chair or a speaker limited who may
+                      see it; say who
+    DO NOT RECORD   - the Chair or a speaker ruled it out of
+                      the written record; quote the line
+- If something was raised and then ruled out of the record,
+  still include it as a row, marked DO NOT RECORD, so that
+  nobody downstream re-adds it by mistake.
+- Do not include any figure that was not actually spoken.
+- If a figure was corrected later, use the corrected one.
+
+Table only. No preamble.
