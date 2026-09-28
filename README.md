@@ -7,7 +7,7 @@ Below frameworks work with Lovable or any modern no‑/low‑code AI app builder
 # Build Your AI Consulting Twin (No-Code Playbook)
 
 > A step‑by‑step framework to build an AI-powered “consulting twin” web app  
-> using **Lovable** or any modern no‑/low‑code platform.
+> using **Claude** or any modern no‑/low‑code platform.
 
 ---
 
